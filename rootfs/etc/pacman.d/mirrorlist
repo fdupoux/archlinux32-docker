@@ -1,0 +1,2 @@
+Server = http://mirror.archlinux32.org/$arch/$repo
+Server = https://mirror.archlinux32.org/$arch/$repo
